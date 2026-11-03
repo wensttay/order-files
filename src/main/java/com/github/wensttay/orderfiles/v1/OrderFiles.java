@@ -1,6 +1,6 @@
-package com.github.wensttay.orderfiles;
+package com.github.wensttay.orderfiles.v1;
 
-import com.github.wensttay.orderfiles.enums.DefaultFolderStructures;
+import com.github.wensttay.orderfiles.v1.enums.DefaultFolderStructures;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
